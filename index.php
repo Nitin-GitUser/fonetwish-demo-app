@@ -3,6 +3,6 @@
   <title>ALB Heartbeat</title>
  </head>
  <body>
- <?php echo '<p>OK</p>'; ?> 
+ <?php echo '<p>Health OK</p>'; ?> 
  </body>
 </html>
