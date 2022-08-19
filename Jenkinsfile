@@ -3,7 +3,7 @@ pipeline {
     environment{
         registry='nitingoyal/fonetwish'
         region='us-east-1'
-        service_name='FoneTwish'
+        service_name='FoneTwishDemo'
     }
     options {
         timestamps()
